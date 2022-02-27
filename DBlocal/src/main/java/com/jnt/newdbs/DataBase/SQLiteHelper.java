@@ -9,7 +9,7 @@ import androidx.annotation.Nullable;
 public class SQLiteHelper extends SQLiteOpenHelper {
 
     private static final String DatabaseName = "MarketShopping.db";
-    private static final int DatabaseVersion = 2;
+    private static final int DatabaseVersion = 1;
 
     public SQLiteHelper(@Nullable Context context) {
 

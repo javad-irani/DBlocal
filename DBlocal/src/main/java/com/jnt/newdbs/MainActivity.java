@@ -18,7 +18,8 @@ import com.jnt.newdbs.helper.Fonts;
 
 public class MainActivity extends AppCompatActivity {
 
-    private String LOG = "jnth main";
+
+    private String LOG = "jnth main and master";
     private String string1 = "0123456789";
     private String string2 = "1abcd2efgh3ijkm4nlop5rst";
     private String string4 = "bdhgciufjekam"; // 14

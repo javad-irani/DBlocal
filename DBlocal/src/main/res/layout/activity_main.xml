@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:textSize="25dp"
+        android:textSize="25sp"
         android:id="@+id/txt_3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -20,7 +20,7 @@
         app:layout_constraintVertical_bias="0.56" />
 
     <TextView
-        android:textSize="25dp"
+        android:textSize="25sp"
         android:id="@+id/txt_2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -33,7 +33,7 @@
         app:layout_constraintVertical_bias="0.417" />
 
     <TextView
-        android:textSize="25dp"
+        android:textSize="25sp"
         android:id="@+id/txt_1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

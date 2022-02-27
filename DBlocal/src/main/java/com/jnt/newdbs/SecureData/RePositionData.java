@@ -84,7 +84,7 @@ public class RePositionData {
                         Array2D[i][j] = new PositionModel("", false);
                     }
                 } catch (NullPointerException exception) {
-
+                    //
                 }
             }
 

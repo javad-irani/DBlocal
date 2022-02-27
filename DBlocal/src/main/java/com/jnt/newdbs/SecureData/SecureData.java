@@ -40,7 +40,7 @@ public class SecureData {
             p = strWithoutSpecialChar.get(i) - strWithoutSpecialChar.get(i + 1);
 
             if (p < 0) {
-                p = (p - p) - p;
+                p = (p - p) - p; // or 0 - p
             }
 
             array[i] = new DataModel(strWithoutSpecialChar.get(i), strWithoutSpecialChar.get(i + 1), p, true);
